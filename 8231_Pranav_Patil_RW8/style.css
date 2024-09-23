@@ -1,0 +1,160 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box1
+{
+    height: 60px;
+    width: 100%;
+    background-color: #606C5D;
+    background-attachment:fixed;
+}
+.box1 p
+{
+font-size: 22px;
+font-family: "Geologica", sans-serif;
+;
+font-style: normal;
+color: #ffffff;
+padding: 17px 100px;
+}
+.txt p
+{
+   font-size: 14px; 
+font-family: "Geologica", sans-serif;
+;
+font-style: normal;
+color: #ffffff;
+
+}
+.txt
+{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 80%;
+    top: 3%;
+   margin-left: 50px;
+}
+.txt1
+{
+   position: absolute;
+    transform : translate(-50%,-50%);
+    left: 87%;
+    top: 3%;
+  
+}
+.txt1 p
+{
+   font-size: 14px; 
+font-family: "Geologica", sans-serif;
+
+font-style: normal;
+color: #ffffff;
+}
+.txt2
+{
+    position: absolute;
+    transform : translate(-50%,-50%);
+    left: 92%;
+    top: 3%;
+}
+.txt2 p
+{
+    font-size: 14px; 
+    font-family: "Geologica", sans-serif;
+    ;
+    font-style: normal;
+    color: #ffffff;
+}
+.box2
+{
+    height: 93.5vh;
+    width: 60%;
+    background-color: #C1D0B5;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.box3
+{
+    height: 93.5vh;
+    width: 40%;
+    background-color:#606C5D;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 53.3%;
+    left: 80%;
+
+}
+ .box2 h1
+{
+     
+   
+    font-size:82px;
+        font-family: "hot dog";
+        font-weight: bold;
+        font-style: normal;
+     margin-left: 100px;
+     position: relative;
+     top: 20%;
+     color: #606C5D;
+    
+   
+    
+}
+.box2 p
+{
+    font-size: 14px; 
+    font-family: "Geologica", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+    margin-top: 15%;
+    line-height: 30px;
+}
+a
+{
+    background-color:#606C5D ;
+    text-decoration: none;
+    color:white;
+    font-family: "Geologica", sans-serif;
+    padding: 10px 10px;
+    position: relative;
+    left: 100px;
+    top: 30px;
+
+}
+.box3 img
+{
+        height: 80vh;
+        width: 60%;
+        margin-left: 200px;
+}
+.png
+{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 60%;
+    top: 50%;
+}
+.png img
+{
+    
+    animation-duration: 1s ;
+    animation: smooth;
+    transition-duration: 1s;
+    height: 40vh;
+    width: 100%;
+
+}
+.png img:hover
+{
+   
+    transition: smooth;
+    height:45vh ;
+    
+    
+}
